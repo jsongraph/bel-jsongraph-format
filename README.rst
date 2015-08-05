@@ -1,8 +1,8 @@
 bel-jsongraph-format
 ====================
 
-.. image:: https://travis-ci.org/jsongraph/json-graph-specification.svg?branch=master
-    :target: https://travis-ci.org/jsongraph/json-graph-specification
+.. image:: https://travis-ci.org/jsongraph/bel-jsongraph-format.svg?branch=master
+    :target: https://travis-ci.org/jsongraph/bel-jsongraph-format
 
 A child schema of JSON Graph Format for representing Biological Expression Language (`BEL`_) networks.
 
